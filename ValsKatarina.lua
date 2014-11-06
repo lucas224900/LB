@@ -1,7 +1,4 @@
-local Version = "8.4.1"
-local Name = 'ValsKatarina'
-local Author = 'Valdorian'
-
+local version = "8.4.1"
 local autoupdateenabled = true
 local UPDATE_SCRIPT_NAME = "ValsKatarina"
 local UPDATE_HOST = "raw.githubusercontent.com"

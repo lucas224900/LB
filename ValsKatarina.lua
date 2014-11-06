@@ -4,7 +4,7 @@ local Author = 'Valdorian'
 
 local autoupdateenabled = true
 local UPDATE_SCRIPT_NAME = "ValsKatarina"
-local UPDATE_HOST = "raw.github.com"
+local UPDATE_HOST = "raw.githubusercontent.com"
 local UPDATE_PATH = "/lucas224900/LB/master/ValsKatarina.lua"
 local UPDATE_FILE_PATH = SCRIPT_PATH..GetCurrentEnv().FILE_NAME
 local UPDATE_URL = "https://"..UPDATE_HOST..UPDATE_PATH
